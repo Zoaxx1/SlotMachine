@@ -1,0 +1,16 @@
+{
+    "name": "InstantiateSprites",
+    "rootNamespace": "",
+    "references": [
+        "GUID:adb685e57726bfa4f9cdf80322828c56"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
