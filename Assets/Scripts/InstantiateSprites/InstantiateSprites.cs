@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
-public class InstantiateSprites : MonoBehaviour, 
+public class InstantiateSprites : MonoBehaviour
 {
     public GameObject sprite;
     public float limitSprites;
